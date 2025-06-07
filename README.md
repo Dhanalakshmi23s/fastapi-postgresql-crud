@@ -45,7 +45,7 @@ SQLALCHEMY_DATABASE_URL = 'postgresql://username:password@localhost/your_databas
 ```
 4. Run the server
 ```bash
-uvicorn main:app --reload
+uvicorn main🔠 --reload
 ```
 
 🧪 API Endpoints
